@@ -1,6 +1,4 @@
 /* eslint-disable no-undef */
-console.log('Hello for JS file');
-
 const weatherForm = document.querySelector('form');
 const searchInput = document.querySelector('input');
 const messageOne = document.querySelector('#message-1');
